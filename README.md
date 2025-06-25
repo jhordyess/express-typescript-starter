@@ -1,3 +1,7 @@
+> ⚠️ **Attention:**  
+> This GitHub repository is no longer maintained.  
+> It is recommended to use the new template available here: [express-ts-starter](https://github.com/jhordyess/express-ts-starter)
+>
 # Express TypeScript Starter
 
 This is a starter project for building a backend application using Express with TypeScript.
